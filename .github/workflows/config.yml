@@ -1,0 +1,30 @@
+name: Daily EPG Updater
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 04 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13.5'
+          cache: 'pip'
+
+      - name: Install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Getting EPG Guides From WatchDGO
+        run: python dgo.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "scraped epg - $(date +'%Y-%m-%d')"
+          git push

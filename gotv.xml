@@ -336,13 +336,6 @@
     <channelno>170</channelno>
     <catchupperiod>0</catchupperiod>
   </channel>
-  <channel id="100">
-    <display-name>DD Sports 1.0</display-name>
-    <icon src="https://assets.dishhomego.com.np/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" />
-    <contentid>jATOzZkB0RDJ74Ryniuo</contentid>
-    <channelno>611</channelno>
-    <catchupperiod>0</catchupperiod>
-  </channel>
   <channel id="106">
     <display-name>CGTN Documentary</display-name>
     <icon src="https://assets.dishhomego.com.np/dhome/posters/ed3063d8-b252-43f7-b8e1-5abe027eb7e5.jpg" />
@@ -369,13 +362,6 @@
     <icon src="https://assets.dishhomego.com.np/dhome/posters/097df051-c26d-4447-82b2-588fd133f947.jpg" />
     <contentid>LQTOzZkB0RDJ74Ryniuo</contentid>
     <channelno>518</channelno>
-    <catchupperiod>0</catchupperiod>
-  </channel>
-  <channel id="230">
-    <display-name>DD Sports</display-name>
-    <icon src="https://assets.dishhomego.com.np/dhome/posters/aa1a644e-88d4-42a1-a9f4-7071e6a00f1a.jpg" />
-    <contentid>igTOzZkB0RDJ74Ryniuo</contentid>
-    <channelno>609</channelno>
     <catchupperiod>0</catchupperiod>
   </channel>
   <channel id="236">

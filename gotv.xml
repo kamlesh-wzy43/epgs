@@ -154,13 +154,6 @@
     <channelno>152</channelno>
     <catchupperiod>0</catchupperiod>
   </channel>
-  <channel id="33">
-    <display-name>Himalaya HD</display-name>
-    <icon src="https://assets.dishhomego.com.np/dhome/posters/b401a2a2-a964-4f89-9414-de3e50ca8af8.jpg" />
-    <contentid>_ATOzZkB0RDJ74Ryniqo</contentid>
-    <channelno>133</channelno>
-    <catchupperiod>0</catchupperiod>
-  </channel>
   <channel id="34">
     <display-name>AP 1 HD</display-name>
     <icon src="https://assets.dishhomego.com.np/dhome/posters/80ba3c2f-5574-4a80-8b81-7240d01374bf.jpg" />

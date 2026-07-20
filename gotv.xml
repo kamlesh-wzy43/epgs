@@ -140,6 +140,13 @@
     <channelno>132</channelno>
     <catchupperiod>0</catchupperiod>
   </channel>
+  <channel id="23">
+    <display-name>NTV Plus HD</display-name>
+    <icon src="https://assets.dishhomego.com.np/dhome/posters/499b84e2-9433-452d-a19e-5d8844f319bf.jpg" />
+    <contentid>8gTOzZkB0RDJ74Ryniqo</contentid>
+    <channelno>144</channelno>
+    <catchupperiod>0</catchupperiod>
+  </channel>
   <channel id="24">
     <display-name>NTV News HD</display-name>
     <icon src="https://assets.dishhomego.com.np/dhome/posters/b9b1a34b-4e8a-4580-a3a4-16c3fbcd8f55.jpg" />
@@ -201,6 +208,13 @@
     <icon src="https://assets.dishhomego.com.np/dhome/posters/8998910e-45b0-4df4-835b-11e5a8570327.jpg" />
     <contentid>AgTOzZkB0RDJ74Ryniuo</contentid>
     <channelno>152</channelno>
+    <catchupperiod>0</catchupperiod>
+  </channel>
+  <channel id="33">
+    <display-name>Himalaya HD</display-name>
+    <icon src="https://assets.dishhomego.com.np/dhome/posters/b401a2a2-a964-4f89-9414-de3e50ca8af8.jpg" />
+    <contentid>_ATOzZkB0RDJ74Ryniqo</contentid>
+    <channelno>133</channelno>
     <catchupperiod>0</catchupperiod>
   </channel>
   <channel id="34">

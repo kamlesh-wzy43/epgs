@@ -420,6 +420,13 @@
     <channelno>169</channelno>
     <catchupperiod>0</catchupperiod>
   </channel>
+  <channel id="89">
+    <display-name>Himalaya Sports</display-name>
+    <icon src="https://assets.dishhomego.com.np/GgTOzZkB0RDJ74Ryniuo/posters/8a9a9eab-e1dc-4dc0-9788-9614ca48e6f4.png" />
+    <contentid>GgTOzZkB0RDJ74Ryniuo</contentid>
+    <channelno>143</channelno>
+    <catchupperiod>0</catchupperiod>
+  </channel>
   <channel id="90">
     <display-name>Public 4k TV</display-name>
     <icon src="https://assets.dishhomego.com.np/dhome/posters/784a85c2-1733-4aa7-91e2-857f0b721597.jpg" />
